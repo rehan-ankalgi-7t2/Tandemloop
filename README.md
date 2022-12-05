@@ -21,8 +21,5 @@
 ## Outputs
 
 ![Screen 1](./Problem-1/output-files/screen-1.png)
-![Screen 1 Mobile](./Problem-1/output-files/screen-1-mobile.png)
 ![Screen 2](./Problem-1/output-files/screen-2.png)
-![Screen 2 Mobile](./Problem-1/output-files/screen-2-mobile.png)
 ![Screen 3](./Problem-1/output-files/screen-3.png)
-![Screen 3 Mobile](./Problem-1/output-files/screen-3-mobile.png)
